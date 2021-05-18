@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "files.eol": "\n",
+}
